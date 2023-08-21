@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "payment-reminder-app-atompoint",
+  "private_key_id": "f1e91edf8f73b5190e3cfa1437be4fe24fdd9ae7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzaB4NqemydcfN\neM+RInuO1Kn/W1SSywjcxm4DC9BT/zivAY/n5UEASjotG5xXBnI9CCI4B3E/TTHc\nZ5o0nyUDIJA1zoo+XpazTyMdRWDdqTNhFRUBnEzX+VkWCqQ4y/pi60Cr3UbT8D1+\nzXvlbuk/LKc/+TKArm6aFgmYHGmvvpe33Dxz+Yre2uDp5JNu8Zm1q4YD5yfzN424\nEn1gMKo8rgI1I1DSoBQ8ANHgek1ixXKM9Msn2GDQpU/eszshDgek/HCWLqEfCvHk\nT7osvlDeuNKbxjW/BKx7TD2POOlkmg8Ayi4bSmSYcmO8wxVDlXEf+s9B5sCe2Eqy\nVDBLcVChAgMBAAECggEABtwP2c1bAwd2/yZrMQDa8lZk5l0I4DgidFgZfIAZe5S0\npPBesqX5tNpS7/gNyw7OO3jvVbPJm4UL0UcSgcNDOYZFGZynkObZWKNnGKdNVAsg\nkZiqQumeWSqYfa0RBk+wcYRYNXyDtTGoY/hLI/D4RKkkJpF22De6j+CG1SdE9daQ\nS7CCRRz9De/MoQ9CaMN/tvnq7C4EtaKEWIspW3G5BHXAbLf7acgFXJ+7CUhZpJI9\niAYSA6XXEiUuHt6bL+5GDByQf5WoWKu9G2sLC5K+aUBSernuApTr1JZHjQ10paGM\nehgbD0zbibikZGciaqrbaRwCTt6m18SGmvLHFWS0NwKBgQDhBTXhozkAEdp1XoH8\nfnB3vIPpNgDrRzEWhWi4Y9Ad6jn8UHcNQwiNti219q22ZEfr/KgUkoSOAoPSLK+P\nn5z8s4+GEaIonmC8k3IO8CzA352IGsA3yBy3HJCfadbmaHZW/NB3egHOA9j1daXu\nnyZbAI1I1vDrw+waz1gV05351wKBgQDMG0PEmqx+SiFnb+Adh1BTIbsxYdA4cK1S\noxqtXhtyZbb+nH4iwmmq1arIGWgj3WPILh1odCe4y2TZFSjg/OnAC8WiFLxCKmhF\n7cW8Mgw54LiG+bTZyjSEyzbn+MbBThvndJrzHLBTzR6/05W2piiQCKRZAtNEWLC+\ny5Px/oJqRwKBgBuJW7KlGtCbXrSGQDn57yF3/FyJs0sXhzZOVSZbcJh4lWf/INKK\npX1SEf32lgN/+h0y6g66b2ZBgIgz17gnvDpgbuvlNIbr+sKY+JhDY/amZszFGUi6\nQGlYIYqglR/VIMY8YfZ9A8OGTQKcxxWQfE0eoCuNwiXX8AjH3uus3eQ5AoGAFZhU\n5TpQQdRqEF2f4r/sWb9Z5PGqbC5PyEyFiA5K7SGh6PJ5zgev0mlk9mLpx9GmuwlW\nBzUy9rReaTF578QSn0UflfSHrqB6A9wSbcUF0iHapD1LSze/ssUlfAmwTceL4ENQ\nGaTRayxqsnUahAa0h/jCGsDXxYV0vdsgPhxlhAUCgYBpZiVX99qBPqN2/0mIgvvs\nWpB2V+HsqTBxHPXziH2GjDPlv/HuVnzGfoRTIGBrXR0jP2aeIHz9OCWm+ZyA4wQP\nordUE+XP2oh5NgWwjHK/gxNdbCOrVlYV4NJvjFVFh3umXBBy6GGuIcjcc6TfNdRh\nFCizv6Z7uwAOOhTTM7hOaw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gsvzi@payment-reminder-app-atompoint.iam.gserviceaccount.com",
+  "client_id": "102824657833619259318",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gsvzi%40payment-reminder-app-atompoint.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
